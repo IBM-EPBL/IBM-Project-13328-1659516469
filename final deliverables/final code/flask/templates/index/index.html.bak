@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>ODOP</title>
+</head>
+
+<body>
+  <!-- Header -->
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        <div class="brand">
+          <a href="#hero">
+            <h1><span>O</span>D<span>O</span>P</h1>
+          </a>
+        </div>
+        <div class="nav-list">
+          <div class="hamburger">
+            <div class="bar"></div>
+          </div>
+          <ul>
+            <li><a href="#hero" data-after="Home">Home</a></li>
+            <li><a href="#services" data-after="Service">Services</a></li>
+            <li><a href="#projects" data-after="Projects">Projects</a></li>
+            <li><a href="#about" data-after="About">About</a></li>
+            <li><a href="#contact" data-after="Contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Header -->
+
+
+  <!-- Hero Section  -->
+  <section id="hero">
+    <div class="hero container">
+      <div>
+        <h1>WELCOME TO <span></span></h1>
+        <h1>O D O P<span></span></h1>
+        <h1>INITIATIVE <span></span></h1>
+        <a href="#projects" type="button" class="cta">LOGIN/REGISTER</a>
+      </div>
+    </div>
+  </section>
+  <!-- End Hero Section  -->
+
+  <!-- Service Section -->
+  <section id="services">
+    <div class="services container">
+      <div class="service-top">
+        <h1 class="section-title">Serv<span>i</span>ces</h1>
+        <p>We provide a mediator free environment to buy and sell your product with a justified price and profit.</p>
+      </div>
+      <div class="service-bottom">
+        <div class="service-item">
+          <div class="icon"><img src="https://thumbs.dreamstime.com/b/united-people-abstract-illustration-symbol-white-background-36234201.jpg" /></div>
+          <h2>UNITE</h2>
+          <p>Today, thousands of sellers across the Internet are using Unite to Advertise like a big brand and drive sales.</p>
+          <br>
+          <br>
+          <br>
+          <br>
+		  <br>
+		  <br>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="https://thumbs.dreamstime.com/b/business-mediation-concept-people-mediator-parties-238320466.jpg" /></div>
+          <h2>Mediator Free</h2>
+          <p>We provide a Safe Digital Platform for the Users to trade products without the intervension of impartial third party assistants. </p>
+          <br>
+          <br>
+          <br>
+          <br>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="https://as1.ftcdn.net/v2/jpg/03/01/49/34/1000_F_301493485_vQDPKVefnMlsCStV9cMzemcvUVsH6vYs.jpg" /></div>
+          <h2>Security</h2>
+          <p>All the registered users are verified through different level of authentication which made this ODOP Scheme more eminent and protective environment for the users</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Service Section -->
+  
+  <!-- About Section -->
+  <section id="about">
+    <div class="about container">
+      <div class="col-left">
+        <div class="about-img">
+          <img src="about.jpg" alt="img">
+        </div>
+      </div>
+      <div class="col-right">
+        <h1 class="section-title">About <span>me</span></h1>
+        <h2>ODOP</h2>
+        <p>Under the ODOP scheme, the setting up of 54 common incubation centers in 17 states including Karnataka, Uttar Pradesh, Rajasthan, Jammu and Kashmir, Madhya Pradesh, Tamil Nadu, Telangana, Chhattisgarh, Himachal Pradesh, Kerala, Sikkim, Andhra Pradesh, Odisha, and Uttarakhand are approved. A lot of help is provided to the new entrepreneurs from these centers. Experts have been appointed in 491 districts to provide all kinds of technical information to the new entrepreneurs. In one and a half dozen states, 470 district-level trainers have also been kept for the training of entrepreneurs, who will continue to train them from time to time.
+Cooperative organizations NAFED and TRIFED will cooperate for the marketing and branding of each product. NAFED will do branding and marketing of pineapple, millet-based products, coriander, makhana, honey, ragi, bakery, Isabgol, and turmeric in agriculture and horticulture products and cherry. Whereas TRIFED has a selection of tamarind, spices, amla, pulses, cereals, custard apple, wild mushroom, cashew, black rice, and wild apple products. With an outlay of Rs 10,000 crore during the year, 2020-21 to 2024-25, financial and technical assistance will be provided for the up-gradation of micro food processing entrepreneurs under this scheme.</p>
+      </div>
+    </div>
+  </section>
+  <!-- End About Section -->
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="contact container">
+      <div>
+        <h1 class="section-title">Contact <span>info</span></h1>
+      </div>
+      <div class="contact-items">
+        <div class="contact-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png" /></div>
+          <div class="contact-info">
+            <h1>Phone</h1>
+            <h2>+91 4444 8888</h2>
+            <h2>+91 2222 9999</h2>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png" /></div>
+          <div class="contact-info">
+            <h1>Email</h1>
+            <h2>odopscheme@gmail.com</h2>
+            <h2>userodop@gmail.com</h2>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png" /></div>
+          <div class="contact-info">
+            <h1>Address</h1>
+            <h2>Coimbatore, Chennai, Banglore </h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Contact Section -->
+
+  <!-- Footer -->
+  <section id="footer">
+    <div class="footer container">
+      <div class="brand">
+        <h1><span>O</span>D<span>O</span>P</h1>
+      </div>
+      <h2>VISIT AGAIN</h2>
+      <div class="social-icon">
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" /></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" /></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" /></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/behance.png" /></a>
+        </div>
+      </div>
+      <p>Copyright © 2021 CIT. All rights reserved</p>
+    </div>
+  </section>
+  <!-- End Footer -->
+  <script src="./app.js"></script>
+</body>
+
+</html>
